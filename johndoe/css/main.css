@@ -1,0 +1,204 @@
+body{
+    font-family: 'Comfortaa', cursive;
+    font-size: 16px;
+}
+h1{
+    font-size: 50px;
+    font-weight:400;
+    
+}
+
+h2{
+    font-size: 32px;
+  
+}
+h3{
+    font-size: 24px;
+    color: #940101;
+    font-weight: 200;
+}
+
+h2,h4{
+    font-weight:400;
+     color: #fed301;
+}
+p{
+    color: #000000;
+    font-weight: 300;
+}
+.header-top{
+    overflow: hidden;
+    
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.column-1-of-2 {
+    width: 564px;
+   float: left;
+    margin: 0 12px 24px 12px;
+}
+header{
+    background: url(../img/headerpg.jpg) center center no-repeat;
+    height:600px;
+    background-size: cover;
+   
+}
+.logo{
+
+    float: left;
+    margin: 48px 0;
+}
+nav{
+    float: right;
+}
+nav ul{
+    list-style-type: none;
+    margin-top: 48px;
+  
+}
+nav ul li{
+    display: inline;
+    margin-left: 24px;
+     
+}
+nav ul li a{
+    color: aliceblue;
+    text-decoration: none;
+}
+nav ul li a:hover{
+     color:#fed301;
+    
+}
+.hr-top{
+        
+   
+
+    }
+.header-content{
+    text-align: center;
+    color: aliceblue;
+}
+.header-content h1 span{
+    color: #fed301;
+    
+}
+.header-content p{
+    color: aliceblue;
+    font-size: 24px;
+    margin-bottom: 64px;
+}
+.maın-bttn{
+    
+display:inline-block;
+    width: 170px;
+    height: 52px;
+    background-color: #fed301;  
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 30px;
+    padding-top: 10px;
+    
+}
+.maın-bttn:hover{
+    background-color: #ffffff;
+        color:#fed301;
+    
+}
+.column-1-of-2 h2{
+    font-size: 32px;
+    font-weight: 300;
+    text-align: center;
+    color: #fed301;
+}
+.column-1-of-2 p{
+    font-weight: 200;
+    color: black;
+}
+
+.column-1-of-2 a{
+    font-weight: 300;
+    color: #940101;
+    text-decoration: none;
+}
+.column-1-of-1 h2{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 300;
+}
+.column-1-of-1 h3{
+    font-size: 24px;
+    font-weight: 300;
+}
+.p-date{
+    font-size: 14px;
+    color:#858848;
+    font-weight: 500;
+    margin-top: -10px;
+}
+.column-1-of-1 a{
+    font-weight: 300;
+    color: #940101;
+    text-decoration: none;
+
+}
+.hr-bttm{
+    
+    background-color:#940101;
+    border: 0;
+    height: 1px;
+    margin-bottom: 96px;
+    
+}
+footer {
+    position: absolute;
+    width:100%;
+    background-color: black;
+}
+
+footer .row p {
+    color:white;
+    
+}
+form{
+    width: 100%;
+    margin: 0 auto;
+}
+form input{
+    width: 48%;
+    border:none;
+    height: 36%;
+    margin-bottom: 24px;
+    padding-left: 10px;
+}
+form input[type="email"],form input[type="submit"]{
+ float:right;
+    
+    
+}
+form textarea{
+    width: 80%;
+    margin-bottom: 24px;
+}
+footer .column-1-of-2 p{
+    text-align: left;
+}
+.socia-menus{
+    list-style-type: none;
+    text-align: center;
+}
+    
+.socia-menus li{
+    display: inline;
+    margin-left: 20px;
+}
+.copyx{
+    text-align: center;
+    color: white;
+}
+.copyx p{
+    color:black;
+    
+}
+
